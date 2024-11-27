@@ -1,5 +1,5 @@
 # 💫 About Me:
-✍🏻 Student at STMIK AMIKOM SURAKARTA<br>👩🏻‍💻 I'm currently learning pandas and matplotlib<br>💬 Ask me about technology
+✍🏻 Student at STMIK AMIKOM SURAKARTA<br>👩🏻‍💻 I'm currently learning Django<br>💬 Ask me about technology
 
 
 ## 🌐 Socials:
