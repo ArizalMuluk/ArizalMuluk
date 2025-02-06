@@ -1,5 +1,5 @@
 # 💫 About Me:
-✍🏻 Student at STMIK AMIKOM SURAKARTA<br>🌱 I’m currently learning Large Language Models (LLM)<br>💬 Ask me about Tech<br><br>
+### Hi There, welcome to my github profile :D
 
 
 ## 🌐 Socials:
