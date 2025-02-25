@@ -1,6 +1,11 @@
 # 💫 About Me:
 
-## Hi There, my name is Arizal, welcome to my github profile :D
+Hello! I'm a passionate student with a keen interest in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. Currently, I am pursuing my studies and am eager to collaborate with anyone who shares my enthusiasm for technology.
+
+I believe in the power of collective knowledge and innovation, and I'm always open to discussions about the latest trends and developments in the tech world. Feel free to ask me anything related to technology—I love engaging in stimulating conversations!
+
+Let's connect and explore the endless possibilities that technology offers!
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rijal-Gemink) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arzlfrds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arizal-firdaus-bagus-pratama) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Muluk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bangmulukkeren@gmail.com) 
