@@ -1,11 +1,11 @@
 # 💫 About Me:
+🔭 I’m currently working on projects related to Artificial Intelligence (AI) and Machine Learning (ML).
+👯 I’m looking to collaborate on innovative tech solutions and research projects.
+🤝 I’m looking for help with understanding advanced concepts in AI and ML.
+🌱 I’m currently learning the latest trends in AI technologies and their applications.
+💬 Ask me about anything related to technology—I'm always eager to discuss!
+⚡ Fun fact: I love exploring how AI can transform everyday tasks and improve efficiency.
 
-### 🔭 I’m currently working on **projects related to Artificial Intelligence (AI) and Machine Learning (ML)**.  
-### 👯 I’m looking to collaborate on **innovative tech solutions and research projects**.  
-### 🤝 I’m looking for help with **understanding advanced concepts in AI and ML**.  
-### 🌱 I’m currently learning **the latest trends in AI technologies and their applications**.  
-### 💬 Ask me about **anything related to technology—I'm always eager to discuss!**  
-### ⚡ Fun fact: **I love exploring how AI can transform everyday tasks and improve efficiency.**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rijal-Gemink) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arzlfrds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arizal-firdaus-bagus-pratama) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Muluk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bangmulukkeren@gmail.com) 
