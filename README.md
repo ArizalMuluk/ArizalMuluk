@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArizalMuluk&theme=cobalt2&no-frame=false&no-bg=false&margin-w=4)
 
+## 👁️ Total Views
+![Total Views](https://visitcount.itsvg.in/api?id=ArizalMuluk&icon=0&color=3)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ArizalMuluk&icon=0&color=3)](https://visitcount.itsvg.in)
 
