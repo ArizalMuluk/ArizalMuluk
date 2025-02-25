@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-🔭 I’m currently working on **projects related to Artificial Intelligence (AI) and Machine Learning (ML)**.  
-👯 I’m looking to collaborate on **innovative tech solutions and research projects**.  
-🤝 I’m looking for help with **understanding advanced concepts in AI and ML**.  
-🌱 I’m currently learning **the latest trends in AI technologies and their applications**.  
-💬 Ask me about **anything related to technology—I'm always eager to discuss!**  
-⚡ Fun fact: **I love exploring how AI can transform everyday tasks and improve efficiency.**
+🔭 I’m currently working on projects related to Artificial Intelligence (AI) and Machine Learning (ML).  
+👯 I’m looking to collaborate on innovative tech solutions and research projects.  
+🤝 I’m looking for help with understanding advanced concepts in AI and ML.  
+🌱 I’m currently learning the latest trends in AI technologies and their applications.  
+💬 Ask me about anything related to technology—I'm always eager to discuss!  
+⚡ Fun fact: I love exploring how AI can transform everyday tasks and improve efficiency.
 
 
 ## 🌐 Socials:
