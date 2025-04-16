@@ -1,13 +1,12 @@
 # 💫 About Me:
 
-🔭 I’m currently working on projects related to Artificial Intelligence (AI) and Machine Learning (ML).
-👯 I’m looking to collaborate on innovative tech solutions and research projects.
-🤝 I’m looking for help with understanding advanced concepts in AI and ML.
-🌱 I’m currently learning the latest trends in AI technologies and their applications.
-💬 Ask me about anything related to technology—I'm always eager to discuss!
-⚡ Fun fact: I love exploring how AI can transform everyday tasks and improve efficiency.
+- 🔭 I’m currently working on projects related to Artificial Intelligence (AI) and Machine Learning (ML).
+- 👯 I’m looking to collaborate on innovative tech solutions and research projects.
+- 🤝 I’m looking for help with understanding advanced concepts in AI and ML.
+- 🌱 I’m currently learning the latest trends in AI technologies and their applications.
+- 💬 Ask me about anything related to technology—I'm always eager to discuss!
+- ⚡ Fun fact: I love exploring how AI can transform everyday tasks and improve efficiency.
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBudDB3ZnhtMXU0bDU3dG4xZ3BveDZncHVrNnJkYmtmMmxpZGw3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" alt="Python Coding GIF" width="150" align="right">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rijal-Gemink)
@@ -50,5 +49,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArizalMuluk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+## Fav Language
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhtN2VxcTNkemZpeGU0OHg4NDM4ZHYxOHZuaHU2MWo4cTd0dzd3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gG9fVWJdN41NeiHhzk/giphy.gif" alt="Python Coding GIF" width="100%" align="right">
+
 [![](https://visitcount.itsvg.in/api?id=ArizalMuluk&icon=0&color=0)](https://visitcount.itsvg.in)
