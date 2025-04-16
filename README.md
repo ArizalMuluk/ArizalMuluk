@@ -7,7 +7,7 @@
 💬 Ask me about anything related to technology—I'm always eager to discuss!
 ⚡ Fun fact: I love exploring how AI can transform everyday tasks and improve efficiency.
 
-<img src="[https://media.tenor.com/images/c1332c84e9c09241434141594477e548/tenor.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBudDB3ZnhtMXU0bDU3dG4xZ3BveDZncHVrNnJkYmtmMmxpZGw3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)" alt="Python Coding GIF" width="150" align="right">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBudDB3ZnhtMXU0bDU3dG4xZ3BveDZncHVrNnJkYmtmMmxpZGw3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" alt="Python Coding GIF" width="150" align="right">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rijal-Gemink)
