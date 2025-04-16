@@ -1,32 +1,81 @@
-# 💫 About Me:
+## Hi there! 👋
+I'm Arizal, a Python Developer with a strong interest in AI and ML technologies. Welcome to my GitHub profile! 
 
-🔭 I’m currently working on projects related to Artificial Intelligence (AI) and Machine Learning (ML).  
-👯 I’m looking to collaborate on innovative tech solutions and research projects.  
-🤝 I’m looking for help with understanding advanced concepts in AI and ML.  
-🌱 I’m currently learning the latest trends in AI technologies and their applications.  
-💬 Ask me about anything related to technology—I'm always eager to discuss!  
-⚡ Fun fact: I love exploring how AI can transform everyday tasks and improve efficiency.
+🌱 I am currently studying at STMIK Amikom Surakarta and pursuing a degree in computer science. My journey in programming began with Python, and I have been honing my skills and exploring new technologies ever since.
 
+### 🔭 Overview
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rijal-Gemink) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arzlfrds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arizal-firdaus-bagus-pratama) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Muluk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bangmulukkeren@gmail.com) 
+👨🏻‍💻 I have made a total of 114 commits on GitHub, which demonstrates my consistent engagement in coding activities. While this number alone may not accurately gauge my coding proficiency, it reflects my commitment to my projects and passion for coding.
 
-# 💻 Tech Stack:
-## Programming Language
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-## Frameworks & Library
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-## Tools
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArizalMuluk&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ArizalMuluk&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArizalMuluk&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+👨🏻‍💼 I have created a total of 9 repositories, showcasing my proactive approach to personal projects. Among these, my most notable repository is the "issaw-package". Although it has yet to receive any stars, this Python library implements the Simple Additive Weighting (SAW) method, and I believe it holds potential usefulness for the Python community.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ArizalMuluk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🌟 So far, I have accumulated 32 followers on GitHub, indicating some level of recognition and interest in my work. However, my profile is still in the early stages of growth, and I am excited about the potential to make a meaningful impact in the GitHub community.
 
----
-[![](https://visitcount.itsvg.in/api?id=ArizalMuluk&icon=0&color=0)](https://visitcount.itsvg.in)
+⚡ Here are some quick highlights about me:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Python Developer 💻
+- Enthusiast of AI and ML technologies 🧠
+- Currently pursuing a degree in computer science 🎓
+- Committed to personal projects with consistent code contributions 💪
+- Always learning and exploring new technologies to enhance my skill set! 📚
+
+### 🛠️ Skills
+
+Here are some of my key skills and areas of expertise:
+
+- Python programming language 🐍
+- AI and ML technologies 🤖
+- HTML, CSS, JavaScript, and Java ☕
+
+### 📂 Project Showcase
+
+These are a few selected projects from my GitHub repositories:
+
+1. [issaw-package](https://github.com/ArizalMuluk/issaw-package)
+    - Description: A Python library for implementing the Simple Additive Weighting (SAW) method
+    - Stars: 0
+    - Language: Python
+
+2. [Caesarmaker](https://github.com/ArizalMuluk/Caesarmaker)
+    - Description: Cipher text generator using the Caesar cipher technique
+    - Language: Python
+
+3. [mulkip](https://github.com/ArizalMuluk/mulkip)
+    - Description: A basic HTML/ CSS website template for a fictional coffee shop
+    - Language: HTML, CSS
+
+4. [JavaLib](https://github.com/ArizalMuluk/JavaLib)
+    - Description: A collection of Java utility libraries
+    - Language: Java
+
+Feel free to explore these repositories to get more insights into my projects and coding style!
+
+### 📊 GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ArizalMuluk)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArizalMuluk)
+
+🏆 Here are some of my GitHub trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArizalMuluk)](https://github.com/ArizalMuluk)
+
+🔥 My GitHub Streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ArizalMuluk)](https://git.io/streak-stats)
+
+### 📫 Let's Connect!
+
+You can reach out to me via the following channels:
+
+- LinkedIn: [Arizal Muluk](https://www.linkedin.com/in/arizal-muluk)
+- Email: [arizalmuluk@gmail.com](mailto:arizalmuluk@gmail.com)
+- Twitter: [@arizal.dev](twitter.com/arizal_dev)
+
+Feel free to reach out if you have any questions, collaboration opportunities, or just want to say hello!
+
+### Thank You!
+
+Thank you for visiting my GitHub profile and taking the time to learn more about me. I'm excited about my journey as a Python Developer and look forward to collaborating and sharing knowledge with the GitHub community. Let's keep coding and exploring new horizons together!
+
+![dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
