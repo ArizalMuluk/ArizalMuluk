@@ -9,16 +9,16 @@
 # 👨‍💻 Arizal Muluk | AI & ML Developer
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/arizalfirdausbaguspratama/">
+  <a href="https://www.linkedin.com/in/arizalfirdausbaguspratama/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:bangmulukkeren@gmail.com">
+  <a href="mailto:bangmulukkeren@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://instagram.com/arzlfrds">
+  <a href="https://instagram.com/arzlfrds" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://stackoverflow.com/users/25367944/muluk">
+  <a href="https://stackoverflow.com/users/25367944/muluk" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
 </div>
@@ -107,10 +107,10 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 ## 📌 Pinned Projects
 
 <div align="center">
-  <a href="https://github.com/ArizalMuluk/DT-model-testing.git">
+  <a href="https://github.com/ArizalMuluk/DT-model-testing.git" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=DT-model-testing&theme=tokyonight&hide_border=true" alt="Project 1" />
   </a>
-  <a href="https://github.com/ArizalMuluk/linux-simple-commands.git">
+  <a href="https://github.com/ArizalMuluk/linux-simple-commands.git" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=linux-simple-commands&theme=tokyonight&hide_border=true" alt="Project 2" />
   </a>
 </div>
