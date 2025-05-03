@@ -4,6 +4,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhtN2VxcTNkemZpeGU0OHg4NDM4ZHYxOHZuaHU2MWo4cTd0dzd3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gG9fVWJdN41NeiHhzk/giphy.gif" width="300" alt="Python Animation"/>
+
+  <!-- <img src="/assets/gif/sunaina-sunny-miller-snakemovementdetail3.gif" width="300" alt="Python Animation"/> -->
 </div>
 
 # 👨‍💻 Arizal Muluk | AI & ML Developer
