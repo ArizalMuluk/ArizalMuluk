@@ -90,7 +90,7 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArizalMuluk&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArizalMuluk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" alt="GitHub Streak Stats" />
 </div>
 
 <br>
