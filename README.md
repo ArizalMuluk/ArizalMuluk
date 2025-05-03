@@ -93,23 +93,17 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArizalMuluk&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Streak Stats" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArizalMuluk&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Streak Stats" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ArizalMuluk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" width="80%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArizalMuluk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" width="49%" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizalMuluk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" width="49%" alt="Top Languages" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizalMuluk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="80%" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArizalMuluk&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="80%" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArizalMuluk&theme=tokyo-night&hide_border=true&cache_seconds=3600" alt="Contribution Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
