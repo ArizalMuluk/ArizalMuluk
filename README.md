@@ -5,6 +5,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhtN2VxcTNkemZpeGU0OHg4NDM4ZHYxOHZuaHU2MWo4cTd0dzd3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gG9fVWJdN41NeiHhzk/giphy.gif" width="300" alt="Python Animation"/>
 
+  <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhtN2VxcTNkemZpeGU0OHg4NDM4ZHYxOHZuaHU2MWo4cTd0dzd3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gG9fVWJdN41NeiHhzk/giphy.gif -->
+
   <!-- <img src="/assets/gif/sunaina-sunny-miller-snakemovementdetail3.gif" width="300" alt="Python Animation"/> -->
 </div>
 
@@ -58,6 +60,7 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
   <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
   <a href="#"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
   <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></a>
 </p>
 </details>
 
@@ -74,29 +77,39 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>☁️ Tools & Platforms</b></summary>
 <br>
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/></a>
   <a href="#"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
   <a href="#"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
   <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a>
 </p>
 </details>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArizalMuluk&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArizalMuluk&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Streak Stats" width="80%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArizalMuluk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizalMuluk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" alt="Top Languages" />
+<div align="center" style="margin-top: 20px;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ArizalMuluk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" width="80%" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizalMuluk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="80%" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArizalMuluk&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="80%" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -132,6 +145,10 @@ class ArizalMuluk:
 me = ArizalMuluk()
 me.say_hi()
 ```
+
+## 🎉 Fun Facts
+- I can solve a Rubik's cube in under 2 minutes.
+- I enjoy experimenting with AI to create generative art.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ArizalMuluk&style=flat-square&color=blue" alt="Profile Views"/>
