@@ -74,7 +74,7 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>☁️ Tools & Platforms</b></summary>
 <br>
 <p align="left">
