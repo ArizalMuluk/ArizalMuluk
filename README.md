@@ -100,7 +100,8 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArizalMuluk&theme=discord&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArizalMuluk&theme=discord&no-frame=true&column=7
+  " alt="GitHub Trophies" />
 </div>
 
 ## 📌 Pinned Projects
@@ -109,8 +110,8 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
   <a href="https://github.com/ArizalMuluk/DT-model-testing.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=DT-model-testing&theme=tokyonight&hide_border=true" alt="Project 1" />
   </a>
-  <a href="https://github.com/ArizalMuluk/linux-simple-command.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=linux-simple-command&theme=tokyonight&hide_border=true" alt="Project 2" />
+  <a href="https://github.com/ArizalMuluk/linux-simple-commands.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=linux-simple-commands&theme=tokyonight&hide_border=true" alt="Project 2" />
   </a>
 </div>
 
