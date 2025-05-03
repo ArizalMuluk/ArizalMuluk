@@ -18,7 +18,7 @@
   <a href="https://instagram.com/arzlfrds">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://stackoverflow.com/users/Muluk">
+  <a href="https://stackoverflow.com/users/25367944/muluk">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
 </div>
@@ -92,8 +92,9 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArizalMuluk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizalMuluk&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArizalMuluk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizalMuluk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
