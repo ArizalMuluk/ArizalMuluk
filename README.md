@@ -105,11 +105,11 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 ## 📌 Pinned Projects
 
 <div align="center">
-  <a href="https://github.com/ArizalMuluk/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1" />
+  <a href="https://github.com/ArizalMuluk/DT-model-testing.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=DT-model-testing&theme=tokyonight&hide_border=true" alt="Project 1" />
   </a>
-  <a href="https://github.com/ArizalMuluk/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2" />
+  <a href="https://github.com/ArizalMuluk/linux-simple-command.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=linux-simple-command&theme=tokyonight&hide_border=true" alt="Project 2" />
   </a>
 </div>
 
@@ -139,3 +139,7 @@ me.say_hi()
 <div align="center">
   <i>✨ "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning." - Albert Einstein</i>
 </div>
+
+<img src="https://raw.githubusercontent.com/ArizalMuluk/ArizalMuluk/output/snake.svg" alt="Snake animation" />
+
+###
