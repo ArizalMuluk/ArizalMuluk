@@ -100,8 +100,7 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArizalMuluk&theme=discord&no-frame=true&column=7
-  " alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArizalMuluk&theme=discord&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📌 Pinned Projects
