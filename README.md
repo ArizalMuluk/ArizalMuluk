@@ -124,7 +124,7 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=DT-model-testing&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Project 1" />
   </a>
   <a href="https://github.com/ArizalMuluk/linux-simple-commands.git" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=linux-simple-commands&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=linux-simple-commands&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Project 2" />
   </a>
 </div>
 
