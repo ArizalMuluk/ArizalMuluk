@@ -8,7 +8,7 @@
   <!-- <img src="/assets/gif/sunaina-sunny-miller-snakemovementdetail3.gif" width="300" alt="Python Animation"/> -->
 </div>
 
-# 👨‍💻 Arizal Muluk | AI & ML Developer
+# 👨‍💻 Arizal Muluk | AI & ML Engineer
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arizalfirdausbaguspratama/" target="_blank">
