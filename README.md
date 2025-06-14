@@ -23,6 +23,9 @@
   <a href="https://stackoverflow.com/users/25367944/muluk" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
+  <a href="https://www.kaggle.com/arizalfirdaus123" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </div>
 
 ## 🚀 About Me
