@@ -135,7 +135,7 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 class ArizalMuluk:
     def __init__(self):
         self.name = "Arizal Muluk"
-        self.role = "AI & ML Developer"
+        self.role = "ML Engineer"
         self.language_spoken = ["id_ID", "en_US"]
         self.current_focus = ["Deep Learning", "Computer Vision", "NLP"]
     
