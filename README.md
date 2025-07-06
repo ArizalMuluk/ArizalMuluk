@@ -26,6 +26,9 @@
   <a href="https://www.kaggle.com/arizalfirdaus123" target="_blank">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
   </a>
+  <a href="https://huggingface.co/RijalMuluk" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
 </div>
 
 ## 🚀 About Me
