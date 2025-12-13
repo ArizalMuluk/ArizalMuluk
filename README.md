@@ -98,12 +98,6 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArizalMuluk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" alt="GitHub Streak Stats" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArizalMuluk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" width="49%" alt="GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizalMuluk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" width="46%" alt="Top Languages" />
@@ -128,7 +122,7 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 class ArizalMuluk:
     def __init__(self):
         self.name = "Arizal Muluk"
-        self.role = "ML Engineer"
+        self.role = "Machine Learning & Deep Learning Engineer"
         self.language_spoken = ["id_ID", "en_US"]
         self.current_focus = ["Deep Learning", "Computer Vision", "NLP"]
     
