@@ -98,8 +98,6 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArizalMuluk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" width="49%" alt="GitHub Stats" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizalMuluk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" width="46%" alt="Top Languages" />
 </div>
 
