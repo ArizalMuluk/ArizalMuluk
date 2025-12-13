@@ -111,16 +111,6 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArizalMuluk&theme=tokyo-night&hide_border=true&cache_seconds=3600" alt="Contribution Graph" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArizalMuluk&theme=discord&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 📌 Pinned Projects
 
 <div align="center">
