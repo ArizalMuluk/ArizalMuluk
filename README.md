@@ -107,7 +107,7 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 
 <div align="center">
   <a href="https://github.com/ArizalMuluk/eye-code-detectio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=eye-code-detection&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=eye-code-detectio&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Project 1" />
   </a>
   <a href="https://github.com/ArizalMuluk/linux-simple-commands.git" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=linux-simple-commands&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Project 2" />
