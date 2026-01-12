@@ -62,7 +62,7 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 <br>
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
+  <!-- <a href="#"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a> -->
   <a href="#"><img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></a>
   <!-- <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a> -->
 </p>
@@ -102,17 +102,6 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 </div>
 
 <br>
-
-## 📌 Pinned Projects
-
-<div align="center">
-  <a href="https://github.com/ArizalMuluk/ECOS" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=ECOS&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Project 1" />
-  </a>
-  <a href="https://github.com/ArizalMuluk/linux-simple-commands.git" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArizalMuluk&repo=linux-simple-commands&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Project 2" />
-  </a>
-</div>
 
 ## 🎯 Current Focus
 
