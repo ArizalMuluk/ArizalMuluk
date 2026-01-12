@@ -95,11 +95,9 @@ I am a developer focused on Artificial Intelligence and Machine Learning. With a
 </p>
 </details>
 
-## 📊 GitHub Stats
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizalMuluk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1000" width="46%" alt="Top Languages" />
-</div>
+</div> -->
 
 <br>
 
