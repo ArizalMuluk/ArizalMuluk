@@ -8,7 +8,7 @@
   <!-- <img src="/assets/gif/sunaina-sunny-miller-snakemovementdetail3.gif" width="300" alt="Python Animation"/> -->
 </div>
 
-# 👨‍💻 Arizal Muluk | ML Engineer
+# 👨‍💻 Arizal Muluk | ML & DL Engineer
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arizalfirdausbaguspratama/" target="_blank">
@@ -109,7 +109,7 @@ class ArizalMuluk:
         self.name = "Arizal Muluk"
         self.role = "Machine Learning & Deep Learning Engineer"
         self.language_spoken = ["id_ID", "en_US"]
-        self.current_focus = ["Deep Learning", "Computer Vision", "NLP"]
+        self.current_focus = ["Image Segmentation", "Time Series Forecasting", "NLP"]
     
     def say_hi(self):
         print("Thanks for visiting my profile! Let's connect and build something amazing together.")
