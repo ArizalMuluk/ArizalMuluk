@@ -48,7 +48,7 @@ class ArizalMuluk:
     def __init__(self):
         self.name        = "Arizal Muluk"
         self.title       = "Machine Learning & Deep Learning Specialist"
-        self.experience  = "~5 years (yes, Python and I are basically in a relationship)"
+        self.experience  = "~4 years (yes, Python and I are basically in a relationship)"
         self.languages   = ["Python 🐍", "Bash", "id_ID", "en_US"]
 
         self.core_expertise = [
