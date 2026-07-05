@@ -133,13 +133,13 @@ me.say_hi()
 ## 📊 The Scoreboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArizalMuluk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ArizalMuluk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArizalMuluk&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizalMuluk&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
-</div>
+</div> -->
 
 ---
 
